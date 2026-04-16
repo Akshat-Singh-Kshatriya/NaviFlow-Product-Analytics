@@ -1,28 +1,14 @@
-## Ignore Visual Studio SSDT sqlproj specific temporary files, build results, etc
-## 
-##
-## Get latest from https://github.com/github/gitignore/blob/master/SSDT-sqlproj.gitignore
-# Build output
-bin/
-obj/
+# Ignore raw and processed data files
+*.csv
+*.xlsx
+data/
 
-# DACPAC files
-*.dacpac
+# Ignore Python cache
+__pycache__/
+*.pyc
 
-# Publish profiles (optional, if environment-specific)
-*.publish.xml
-
-# SQL Server debug files
-*.dbmdl
-*.sqlcmdvars
-
-# Visual Studio settings
-.vs/
-
-# User-specific files
-*.user
-*.suo
-*.userosscache
+# Ignore OS files
+.DS_Store
 *.sln.docstates
 
 # Backup files
