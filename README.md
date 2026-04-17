@@ -3,7 +3,7 @@
 **An end-to-end data engineering and product analytics project designed to extract actionable insights for digital lending platforms.**
 
 ## Project Overview
-This project analyzes a lending product’s user funnel, repayment performance, and risk segments to recommend actionable product feature changes. It demonstrates the ability to handle millions of rows of real-world financial data, clean it rigorously, structure it in a relational database, and use advanced SQL queries to drive product strategy (specifically tailored for fintech/lending product roles like those at Navi). 
+This project analyzes a lending product’s user funnel, repayment performance, and risk segments to recommend actionable product feature changes. It demonstrates the ability to handle millions of rows of real-world financial data, clean it rigorously, structure it in a relational database, and use SQL queries to drive product strategy.
 
 The analysis focuses on three core pillars:
 1. **Top-of-Funnel Conversion:** Tracking where potential borrowers drop off during the application process.
